@@ -1,5 +1,5 @@
 import smtplib
-
+#saanidhi version 
 ss = smtplib.SMTP("smtp.gmail.com", 587)
 ss.ehlo()
 ss.starttls()
